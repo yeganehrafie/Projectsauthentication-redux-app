@@ -1,0 +1,11 @@
+body {
+    background-color: #20282c;
+}
+
+/*lable form*/
+input:focus+label {
+    transform: translateY(-30px);
+    color: #fbd811;
+}
+
+/*End lable form*/
